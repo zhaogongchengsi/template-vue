@@ -1,6 +1,12 @@
 # Vue 3 现代化开发模板
 
-一个现代化的 Vue 3 + TypeScript + Vite 开发模板，集成了当前最佳实践和常用工具。
+<div align="center">
+  <img src="src/assets/logo.svg" alt="Vue 3 Template Logo" width="120" height="120">
+</div>
+
+<div align="center">
+  一个现代化的 Vue 3 + TypeScript + Vite 开发模板，集成了当前最佳实践和常用工具。
+</div>
 
 ## ✨ 特性
 
